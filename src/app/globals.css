@@ -1,0 +1,8 @@
+.hover-td {
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  
+  .hover-td:hover {
+    background-color: lightgray; /* Add any desired hover styles here */
+  }
